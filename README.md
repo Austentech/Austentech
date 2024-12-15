@@ -1,4 +1,4 @@
-👋 Hello, I'm Deepak Kumar!
+👋 Hello, I'm Deepak Khurana!
 Welcome to my GitHub profile!
 I'm a passionate Full Stack Java Developer who loves creating dynamic and efficient applications. Here's a bit more about me:
 
@@ -7,12 +7,12 @@ I'm a passionate Full Stack Java Developer who loves creating dynamic and effici
 💬 Feel free to reach out to discuss tech, collaboration, or anything in between.
 
 🛠️ My Tech Stack
-Front-end: HTML, CSS, JavaScript, React
-Back-end: Java, Spring Boot
+Front-end: HTML, CSS, JavaScript, React, Bootstrap
+Back-end: Java, Spring Boot, Python, Django
 Database: MySQL, MongoDB
 Tools: Git, Docker, Jenkins, AWS
 
 
  Connect with Me
-LinkedIn: Deepak Kumar
-Email: austentech02@gmail.com
+LinkedIn: Deepak Khurana
+Email: hello@deepakkhurana.tech
